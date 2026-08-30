@@ -40,6 +40,17 @@ Links:
 - [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 - [GitHub](https://github.com/sandbaseai)
 
+### [SandBase Harness](https://github.com/sandbaseai/sandbase-harness)
+
+Open-source, local-first agent runtime and MCP bridge for governed execution.
+
+- Persistent sessions and resumable runtime state
+- Explicit approvals, credential scoping, audit, and replay
+- Docker, Kubernetes, and worker execution backends
+- Useful for: teams evaluating self-owned Agent infrastructure and MCP-based tool workflows
+
+The isolation properties depend on the selected deployment backend; this project does not claim universal microVM or kernel isolation. See the [installation guide](https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md) and [security boundary](https://github.com/sandbaseai/sandbase-harness/blob/main/docs/security.md).
+
 ## Sandbox and Execution Environments
 
 Tools that provide isolated environments for agents to run code, process files, or execute tools.
@@ -193,4 +204,3 @@ Short neutral description.
 ```
 
 Please prefer neutral descriptions and avoid marketing-only submissions. Tools should be relevant to production agent infrastructure, runtime, sandboxing, browser automation, model routing, protocol integration, or agent operations.
-
