@@ -113,6 +113,14 @@ Open-source browser automation framework.
 - Strong testing and automation primitives
 - Useful when teams want to own browser infrastructure directly
 
+### [Superagent](https://github.com/pungme/superagent-desktop)
+
+Open-source (MIT) macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
+
+- Real macOS browser and iOS Simulator, not a headless cloud session
+- Phone companion for remote monitoring of running agent sessions
+- Useful for teams that want the agent working in a real local browser/device environment instead of a hosted headless one
+
 ## Model Routing and Gateways
 
 Tools for routing requests across model providers, standardizing API formats, and managing model fallback.
