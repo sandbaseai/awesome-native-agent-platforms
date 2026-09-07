@@ -117,6 +117,13 @@ Open-source browser automation framework.
 
 Tools for routing requests across model providers, standardizing API formats, and managing model fallback.
 
+### [Bifrost](https://github.com/maximhq/bifrost)
+
+Self-hosted AI gateway for multi-provider routing, load balancing, virtual keys, and request logging.
+
+- OpenAI-compatible endpoint for connecting agent applications
+- Useful when teams need an owned model-routing layer for production agents
+
 ### [LiteLLM](https://litellm.ai)
 
 Open-source LLM gateway for calling many providers through common API formats.
