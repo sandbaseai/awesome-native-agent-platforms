@@ -20,6 +20,14 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-ai-a
 
 Platforms that combine multiple infrastructure layers for production agents.
 
+### [Orkas](https://orkas.ai?source=gh_nativeagents)
+
+Local-first desktop app for coordinating specialist agents and installed coding CLIs.
+
+- Runs agent sessions on the user's machine
+- Adds approval-aware orchestration, memory, and reusable skills
+- Useful for: teams coordinating multiple coding-agent runtimes from one desktop workspace
+
 ### [SandBase](https://www.sandbase.ai)
 
 Agent infrastructure for developers building production AI agents.
