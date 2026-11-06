@@ -105,6 +105,14 @@ Browser API for AI agents.
 - API-first browser automation
 - Useful for quickly adding browser capabilities to agent apps
 
+### [Cloudbrowser](https://cloudbrowser.tv)
+
+Managed cloud Chrome for AI agents, with persistent profiles, scoped CDP links, and a REST API for browser lifecycle operations.
+
+- CDP browser access and read-only Live View
+- Pause and resume; fork requires a paused source browser
+- Useful for agent workflows that need a reusable, remotely observable browser session
+
 ### [Playwright](https://playwright.dev)
 
 Open-source browser automation framework.
