@@ -145,6 +145,15 @@ Model Context Protocol for connecting AI systems to tools and data sources.
 - Growing ecosystem of servers and integrations
 - Useful for standardizing agent-tool access
 
+### [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp)
+
+Local stdio MCP server for the CloudGPU GPU execution API.
+
+- GPU quotes, budget-limited jobs and instance lifecycle tools
+- File upload, download and explicit teardown tools
+- Useful for: connecting MCP agents to GPUs for training and inference workloads
+- Cloud compute requires a funded CloudGPU account
+
 ### [A2A](https://github.com/a2a-protocol)
 
 Agent-to-agent communication protocol.
